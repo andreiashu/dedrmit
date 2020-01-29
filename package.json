@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "expand-tilde": "^2.0.2",
+    "glob": "^7.1.6",
+    "tmp": "^0.1.0"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  }
+}
