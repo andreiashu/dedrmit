@@ -39,7 +39,7 @@ export const stringToFilename = s => {
   return s
     .trim()
     .replace(/[^a-zA-Z0-9-_\s]/gm, "")
-    .replace(/\s+/g, "-")
+    .replace(/\s+/g, " ")
     .substring(0, 200);
 };
 

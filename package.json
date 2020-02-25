@@ -1,9 +1,12 @@
 {
   "dependencies": {
+    "change-case": "^4.1.1",
     "dotenv": "^8.2.0",
     "expand-tilde": "^2.0.2",
+    "ffmetadata": "^1.6.0",
     "glob": "^7.1.6",
-    "tmp": "^0.1.0"
+    "tmp": "^0.1.0",
+    "to-space-case": "^1.0.0"
   },
   "devDependencies": {
     "esm": "^3.2.25"
